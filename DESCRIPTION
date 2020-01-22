@@ -1,7 +1,7 @@
 Encoding: UTF-8
 Type: Package
 Package: scalefaster
-Version: 0.1-1
+Version: 0.1-2
 Date: 2020-01-22
 Title: Methods for Ffficiently Centering and Scaling Matrices
 Description: Provides a fast and memory-efficient method for centering and scaling matrices.
@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 Imports:
 	matrixStats
 RoxygenNote: 7.0.2
+Suggests:
+	testthat
