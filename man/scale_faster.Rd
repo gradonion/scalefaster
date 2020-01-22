@@ -2,7 +2,7 @@
 % Please edit documentation in R/scalefaster.R
 \name{scale_faster}
 \alias{scale_faster}
-\title{Fast CEntering and Scaling of Matrices}
+\title{Fast Centering and Scaling of Matrices}
 \usage{
 scale_faster(x)
 }

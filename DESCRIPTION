@@ -9,7 +9,10 @@ URL: https://github.com/gradonion/scalefaster
 Authors@R: person("Yifan","Zhou",role=c("cre","aut"), email="zhouyf@uchicago.edu")
 License: MIT + file LICENSE
 Imports:
-	matrixStats
+	matrixStats,
+	Rcpp (>= 1.0.0)
 RoxygenNote: 7.0.2
 Suggests:
 	testthat
+LinkingTo: Rcpp
+NeedsCompilation: yes
