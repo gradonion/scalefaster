@@ -10,3 +10,4 @@ Authors@R: person("Yifan","Zhou",role=c("cre","aut"), email="zhouyf@uchicago.edu
 License: MIT + file LICENSE
 Imports:
 	matrixStats
+RoxygenNote: 7.0.2
