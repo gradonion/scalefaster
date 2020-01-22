@@ -1,4 +1,4 @@
-sacle_faster <- funciton(x){
+scale_faster <- function(x){
   a <- colMeans(x)
   b <- matrixStats::colSds(x)
   x <- t(t(x)-a)
