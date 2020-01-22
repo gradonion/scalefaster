@@ -1,0 +1,12 @@
+Encoding: UTF-8
+Type: Package
+Package: scalefaster
+Version: 0.1-0
+Date: 2020-01-22
+Title: Methods for Ffficiently Centering and Scaling Matrices
+Description: Provides a fast and memory-efficient method for centering and scaling matrices.
+URL: https://github.com/gradonion/scalefaster
+Authors@R: person("Yifan","Zhou",role=c("cre","aut"), email="zhouyf@uchicago.edu")
+License: MIT + file LICENSE
+Imports:
+	matrixStats
